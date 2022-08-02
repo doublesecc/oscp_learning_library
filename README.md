@@ -1,6 +1,7 @@
 # OSCP Practical Learning Library
+# OSCP Checklist Template
 # Active Directory
-- HTBA
+- HTB Academy
   - [ ] Intro to AD https\://academy.hackthebox.com/module/details/74
   - [ ] LDAP https\://academy.hackthebox.com/module/details/22
   - [ ] PowerView https\://academy.hackthebox.com/module/details/68
@@ -62,14 +63,14 @@
     - [ ] PS Academy SQL Injection https\://portswigger.net/web-security/sql-injection
     - [ ] THM SQLi https\://tryhackme.com/room/sqlilab
   - XSS
-    - HTBA Cross-Site Scripting (XSS) https\://academy.hackthebox.com/module/details/103&#x20;
-    - PS Academy XSS https\://portswigger.net/web-security/cross-site-scripting
+    - [ ] HTBA Cross-Site Scripting (XSS) https\://academy.hackthebox.com/module/details/103&#x20;
+    - [ ] PS Academy XSS https\://portswigger.net/web-security/cross-site-scripting
   - XXE Injection
-    - PS Academy XXE Injection https\://portswigger.net/web-security/xxe
+    - [ ] PS Academy XXE Injection https\://portswigger.net/web-security/xxe
   - OS Command Injection
-    - PS Academy OS Command Injection https\://portswigger.net/web-security/os-command-injection
+    - [ ] PS Academy OS Command Injection https\://portswigger.net/web-security/os-command-injection
   - Template Injection
-    - PS Academy Server-Side Template Injection https\://portswigger.net/web-security/server-side-template-injection
+    - [ ] PS Academy Server-Side Template Injection https\://portswigger.net/web-security/server-side-template-injection
 - General
   - HTBA Web Service and API Attacks https\://academy.hackthebox.com/module/details/160
   - PS Academy HTTP Host Header Attacks https\://portswigger.net/web-security/host-header
@@ -299,8 +300,8 @@
       - [ ] Snookums
       - [ ] Exflitrated
 # OSINT
-- [ ] HTB
-  - [ ] HTB OSINT Corporate Recon https\://academy.hackthebox.com/modules
+- [ ] HTBA
+  - [ ] HTBA OSINT Corporate Recon https\://academy.hackthebox.com/modules
 - [ ] THM
   - [ ] OhSINT https\://tryhackme.com/room/ohsint
   - [ ] Searchlight IMNT https\://tryhackme.com/room/searchlightosint
