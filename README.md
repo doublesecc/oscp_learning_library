@@ -1,17 +1,17 @@
 # OSCP Practical Learning Library
 # Active Directory
-- HTB Academy
+- HTBA
   - [ ] Intro to AD https\://academy.hackthebox.com/module/details/74
-  - [ ] LDAP (paid) https\://academy.hackthebox.com/module/details/22
-  - [ ] PowerView (paid) https\://academy.hackthebox.com/module/details/68
-  - [ ] BloodHound (paid) https\://academy.hackthebox.com/module/details/69
-  - [ ] AD Enum (paid) https\://academy.hackthebox.com/module/details/143
+  - [ ] LDAP https\://academy.hackthebox.com/module/details/22
+  - [ ] PowerView https\://academy.hackthebox.com/module/details/68
+  - [ ] BloodHound https\://academy.hackthebox.com/module/details/69
+  - [ ] AD Enum https\://academy.hackthebox.com/module/details/143
 - THM
-  - [ ] Holo (VIP) https\://tryhackme.com/room/hololive
-  - [ ] Wreath (free) https\://tryhackme.com/room/wreath
-  - [ ] Throwback (single fee) https\://tryhackme.com/network/throwback
+  - [ ] Holo https\://tryhackme.com/room/hololive
+  - [ ] Wreath https\://tryhackme.com/room/wreath
+  - [ ] Throwback https\://tryhackme.com/network/throwback
   - [ ] Attacktive https\://tryhackme.com/room/attacktivedirectory
-  - [ ] Attacking Kerberos (VIP) https\://tryhackme.com/room/attackingkerberos
+  - [ ] Attacking Kerberos https\://tryhackme.com/room/attackingkerberos
   - [ ] AD Enum https\://tryhackme.com/room/adenumeration
   - [ ] AD Breach https\://tryhackme.com/room/breachingad
   - [ ] AD Lateral Movement https\://tryhackme.com/room/lateralmovementandpivoting
