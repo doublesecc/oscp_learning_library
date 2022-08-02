@@ -34,29 +34,29 @@
   - [ ] HTB Linux Fundamentals https\://academy.hackthebox.com/module/details/18
 # Webapp
 - Reconnaissance
-  - HTBA Attacking Web Applications with Ffuf [https://academy.hackthebox.com/module/details/49](https://academy.hackthebox.com/module/details/54 "https://academy.hackthebox.com/module/details/49")&#x20;
+  - [ ] HTBA Attacking Web Applications with Ffuf [https://academy.hackthebox.com/module/details/49](https://academy.hackthebox.com/module/details/54 "https://academy.hackthebox.com/module/details/49")&#x20;
 - File Upload
   - [ ] THM https\://tryhackme.com/room/uploadvulns
   - [ ] HTBA File Upload Attacks https\://academy.hackthebox.com/module/details/136
   - [ ] PS Academy File Upload Vulnerabilities https\://portswigger.net/web-security/file-upload
 - LFI/RFI
-  - HTBA File Inclusion https\://academy.hackthebox.com/module/details/23
-  - PS Academy Directory Traversal https\://portswigger.net/web-security/file-path-traversal
+  - [ ] HTBA File Inclusion https\://academy.hackthebox.com/module/details/23
+  - [ ] PS Academy Directory Traversal https\://portswigger.net/web-security/file-path-traversal
 - Authentication and Session
-  - HTBA Login Brute Forcing https\://academy.hackthebox.com/module/details/57
-  - HTBA Broken Authentication https\://academy.hackthebox.com/module/details/80
-  - HTBA Session Security https\://academy.hackthebox.com/module/details/153
-  - PS Academy JWT Tokens https\://portswigger.net/web-security/jwt
-  - PS Academy OAuth 2.0 Auth Vulnerabilities https\://portswigger.net/web-security/oauth
-  - PS Academy Access Control Vulns and Priv Esc https\://portswigger.net/web-security/access-control
-  - PS Academy Authentication Vulnerabilities https\://portswigger.net/web-security/authentication
+  - [ ] HTBA Login Brute Forcing https\://academy.hackthebox.com/module/details/57
+  - [ ] HTBA Broken Authentication https\://academy.hackthebox.com/module/details/80
+  - [ ] HTBA Session Security https\://academy.hackthebox.com/module/details/153
+  - [ ] PS Academy JWT Tokens https\://portswigger.net/web-security/jwt
+  - [ ] PS Academy OAuth 2.0 Auth Vulnerabilities https\://portswigger.net/web-security/oauth
+  - [ ] PS Academy Access Control Vulns and Priv Esc https\://portswigger.net/web-security/access-control
+  - [ ] PS Academy Authentication Vulnerabilities https\://portswigger.net/web-security/authentication
 - Technology Specific
-  - HTBA Hacking WordPress https\://academy.hackthebox.com/module/details/17
-  - HTBA Attacking Common Applications https\://academy.hackthebox.com/module/details/113
+  - [ ] HTBA Hacking WordPress https\://academy.hackthebox.com/module/details/17
+  - [ ] HTBA Attacking Common Applications https\://academy.hackthebox.com/module/details/113
 - IDOR
-  - HTBA Web Attacks https\://academy.hackthebox.com/module/details/134
+  - [ ] HTBA Web Attacks https\://academy.hackthebox.com/module/details/134
 - Cross-Site Request Forgery
-  - PS Academy Cross-Site Request Forgery https\://portswigger.net/web-security/csrf
+  - [ ] PS Academy Cross-Site Request Forgery https\://portswigger.net/web-security/csrf
 - Injection Attacks
   - SQLi
     - [ ] HTBA SQL Injection Fundamentals https\://academy.hackthebox.com/module/details/33
@@ -72,18 +72,18 @@
   - Template Injection
     - [ ] PS Academy Server-Side Template Injection https\://portswigger.net/web-security/server-side-template-injection
 - General
-  - HTBA Web Service and API Attacks https\://academy.hackthebox.com/module/details/160
-  - PS Academy HTTP Host Header Attacks https\://portswigger.net/web-security/host-header
-  - PS Academy Clickjacking https\://portswigger.net/web-security/clickjacking
-  - PS Academy Cross-Origin Resource Sharing (CORS) https\://portswigger.net/web-security/cors
-  - PS Academy Server-Side Request Forgery (SSRF) https\://portswigger.net/web-security/ssrf
-  - PS Academy HTTP Request Smuggling https\://portswigger.net/web-security/request-smuggling
-  - PS Academy Insecure Deserialisation https\://portswigger.net/web-security/deserialization
-  - PS Academy Business Logic Flaws https\://portswigger.net/web-security/logic-flaws
-  - PS Academy Web Socket Security Vulnerabilities https\://portswigger.net/web-security/websockets
-  - PS Academy DOM Based Vulnerabilities https\://portswigger.net/web-security/dom-based
-  - PS Academy Web Cache Poinsoning https\://portswigger.net/web-security/web-cache-poisoning
-  - PS Academy Information Disclosure https\://portswigger.net/web-security/information-disclosure
+  - [ ] HTBA Web Service and API Attacks https\://academy.hackthebox.com/module/details/160
+  - [ ] PS Academy HTTP Host Header Attacks https\://portswigger.net/web-security/host-header
+  - [ ] PS Academy Clickjacking https\://portswigger.net/web-security/clickjacking
+  - [ ] PS Academy Cross-Origin Resource Sharing (CORS) https\://portswigger.net/web-security/cors
+  - [ ] PS Academy Server-Side Request Forgery (SSRF) https\://portswigger.net/web-security/ssrf
+  - [ ] PS Academy HTTP Request Smuggling https\://portswigger.net/web-security/request-smuggling
+  - [ ] PS Academy Insecure Deserialisation https\://portswigger.net/web-security/deserialization
+  - [ ] PS Academy Business Logic Flaws https\://portswigger.net/web-security/logic-flaws
+  - [ ] PS Academy Web Socket Security Vulnerabilities https\://portswigger.net/web-security/websockets
+  - [ ] PS Academy DOM Based Vulnerabilities https\://portswigger.net/web-security/dom-based
+  - [ ] PS Academy Web Cache Poinsoning https\://portswigger.net/web-security/web-cache-poisoning
+  - [ ] PS Academy Information Disclosure https\://portswigger.net/web-security/information-disclosure
 # CLI
 - Linux
   - Over the Wire https\://overthewire.org/wargames/
@@ -99,7 +99,7 @@
     - [ ] Semtex
     - [ ] Manpage
     - [ ] Drifter
-  - HTBA Introduction to Bash Scripting https\://academy.hackthebox.com/module/details/28
+  - [ ] HTBA Introduction to Bash Scripting https\://academy.hackthebox.com/module/details/28
 - Windows
   - Under the Wire https\://underthewire.tech/wargames
     - [ ] Century
@@ -244,7 +244,7 @@
 - THM
 - PG
   - Play
-    - [ ] Linux
+    - Linux
       - [ ] Sunset: Midnight
       - [ ] Stapler
       - [ ] Born2Root
