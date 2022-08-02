@@ -33,36 +33,36 @@
   - [ ] HTB Linux Fundamentals https\://academy.hackthebox.com/module/details/18
 # Webapp
 - Reconnaissance
-  - HTB Acad Attacking Web Applications with Ffuf [https://academy.hackthebox.com/module/details/49](https://academy.hackthebox.com/module/details/54 "https://academy.hackthebox.com/module/details/49")&#x20;
+  - HTBA Attacking Web Applications with Ffuf [https://academy.hackthebox.com/module/details/49](https://academy.hackthebox.com/module/details/54 "https://academy.hackthebox.com/module/details/49")&#x20;
 - File Upload
-  - [ ] https\://tryhackme.com/room/uploadvulns
-  - [ ] HTB Acad File Upload Attacks https\://academy.hackthebox.com/module/details/136
+  - [ ] THM https\://tryhackme.com/room/uploadvulns
+  - [ ] HTBA File Upload Attacks https\://academy.hackthebox.com/module/details/136
   - [ ] PS Academy File Upload Vulnerabilities https\://portswigger.net/web-security/file-upload
 - LFI/RFI
-  - HTB File Inclusion https\://academy.hackthebox.com/module/details/23
+  - HTBA File Inclusion https\://academy.hackthebox.com/module/details/23
   - PS Academy Directory Traversal https\://portswigger.net/web-security/file-path-traversal
 - Authentication and Session
-  - HTB Acad Login Brute Forcing https\://academy.hackthebox.com/module/details/57
-  - HTB Acad Broken Authentication https\://academy.hackthebox.com/module/details/80
-  - HTB Acad Session Security https\://academy.hackthebox.com/module/details/153
+  - HTBA Login Brute Forcing https\://academy.hackthebox.com/module/details/57
+  - HTBA Broken Authentication https\://academy.hackthebox.com/module/details/80
+  - HTBA Session Security https\://academy.hackthebox.com/module/details/153
   - PS Academy JWT Tokens https\://portswigger.net/web-security/jwt
   - PS Academy OAuth 2.0 Auth Vulnerabilities https\://portswigger.net/web-security/oauth
   - PS Academy Access Control Vulns and Priv Esc https\://portswigger.net/web-security/access-control
   - PS Academy Authentication Vulnerabilities https\://portswigger.net/web-security/authentication
 - Technology Specific
-  - HTB Hacking WordPress https\://academy.hackthebox.com/module/details/17
-  - HTB Acad - Attacking Common Applications https\://academy.hackthebox.com/module/details/113
+  - HTBA Hacking WordPress https\://academy.hackthebox.com/module/details/17
+  - HTBA Attacking Common Applications https\://academy.hackthebox.com/module/details/113
 - IDOR
-  - HTB Acad Web Attacks https\://academy.hackthebox.com/module/details/134
+  - HTBA Web Attacks https\://academy.hackthebox.com/module/details/134
 - Cross-Site Request Forgery
   - PS Academy Cross-Site Request Forgery https\://portswigger.net/web-security/csrf
 - Injection Attacks
   - SQLi
-    - [ ] HTB SQL Injection Fundamentals https\://academy.hackthebox.com/module/details/33
+    - [ ] HTBA SQL Injection Fundamentals https\://academy.hackthebox.com/module/details/33
     - [ ] PS Academy SQL Injection https\://portswigger.net/web-security/sql-injection
     - [ ] THM SQLi https\://tryhackme.com/room/sqlilab
   - XSS
-    - HTB Acad Cross-Site Scripting (XSS) https\://academy.hackthebox.com/module/details/103&#x20;
+    - HTBA Cross-Site Scripting (XSS) https\://academy.hackthebox.com/module/details/103&#x20;
     - PS Academy XSS https\://portswigger.net/web-security/cross-site-scripting
   - XXE Injection
     - PS Academy XXE Injection https\://portswigger.net/web-security/xxe
@@ -71,7 +71,7 @@
   - Template Injection
     - PS Academy Server-Side Template Injection https\://portswigger.net/web-security/server-side-template-injection
 - General
-  - HTB Acad Web Service and API Attacks https\://academy.hackthebox.com/module/details/160
+  - HTBA Web Service and API Attacks https\://academy.hackthebox.com/module/details/160
   - PS Academy HTTP Host Header Attacks https\://portswigger.net/web-security/host-header
   - PS Academy Clickjacking https\://portswigger.net/web-security/clickjacking
   - PS Academy Cross-Origin Resource Sharing (CORS) https\://portswigger.net/web-security/cors
@@ -98,7 +98,7 @@
     - [ ] Semtex
     - [ ] Manpage
     - [ ] Drifter
-  - HTB - Introduction to Bash Scripting https\://academy.hackthebox.com/module/details/28
+  - HTBA Introduction to Bash Scripting https\://academy.hackthebox.com/module/details/28
 - Windows
   - Under the Wire https\://underthewire.tech/wargames
     - [ ] Century
@@ -310,7 +310,7 @@
   - [ ] SoMeSINT https\://tryhackme.com/room/somesint
   - [ ] Google Dorking https\://tryhackme.com/room/googledorking
 # Misc
-- [ ] HTB Academy
+- [ ] HTBA
   - [ ] Footprinting https\://academy.hackthebox.com/module/details/112
   - [ ] Attacking Common Services https\://academy.hackthebox.com/module/details/116
   - [ ] Command Injection https\://academy.hackthebox.com/module/details/109
